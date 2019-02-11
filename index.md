@@ -2,4 +2,6 @@
 layout: default
 ---
 
-# David Leonardi
+# Education
+---
+
