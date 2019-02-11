@@ -1,1 +1,5 @@
+---
+layout: default
+---
+
 # David Leonardi
