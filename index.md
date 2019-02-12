@@ -1,10 +1,9 @@
 ---
 layout: default
 ---
-# David Leonardi
-**Curriculum Vitae**
+# David Leonardi - Curriculum Vitae
 
-# Education
+## Education
 
 ### [NUS Institute of Systems Science](https://www.iss.nus.edu.sg/graduate-programmes/programme/detail/master-of-technology-in-knowledge-engineering), MTech in Knowledge Engineering
 Jan 2018 to Apr 2019
@@ -18,11 +17,11 @@ Aug 2003 to Aug 2008
 * GPA 3.6/4.0
 
 
-# Projects
+## Projects
 * [League of Legends Match Analysis](http://davidleonardi.me/LeagueofLegends_Matches_Analysis/)
 
 
-# Experience
+## Experience
 
 ### [A*Star I2R](https://www.a-star.edu.sg/i2r), Research Intern
 Jul 2018 to Mar 2019
