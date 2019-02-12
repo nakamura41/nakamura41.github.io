@@ -37,7 +37,7 @@ Jan 2017 to Oct 2017
 
 ## [The Stakeholder Company](https://tsc.ai), Full Stack Engineer
 Oct 2015 to Dec 2016
-* TSC Product, Atium: https://vimeo.com/283410253
+* TSC Product, [Atium](https://vimeo.com/283410253)
 * Recruited and managed an engineering team
 * developed hiring practise to attract top talent
 * Improve News crawling engine using AWS Lambda (Crawler), Scrapy (Parser), Python Newspaper (News analyser), Elasticsearch (Database), and Django (Front-end)
