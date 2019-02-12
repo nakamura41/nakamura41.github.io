@@ -2,9 +2,9 @@
 layout: default
 ---
 # David Leonardi
-Curriculum Vitae
+**Curriculum Vitae**
 
-## Education
+# Education
 
 ### [NUS Institute of Systems Science](https://www.iss.nus.edu.sg/graduate-programmes/programme/detail/master-of-technology-in-knowledge-engineering), MTech in Knowledge Engineering
 Jan 2018 to Apr 2019
@@ -18,11 +18,11 @@ Aug 2003 to Aug 2008
 * GPA 3.6/4.0
 
 
-## Projects
+# Projects
 * [League of Legends Match Analysis](http://davidleonardi.me/LeagueofLegends_Matches_Analysis/)
 
 
-## Experience
+# Experience
 
 ### [A*Star I2R](https://www.a-star.edu.sg/i2r), Research Intern
 Jul 2018 to Mar 2019
@@ -37,24 +37,24 @@ Jan 2017 to Oct 2017
 * Data Lake: developed using AWS Athena, Glue
 * ETL Pipeline: developed using Apache Spark, Docker, Mesos, Chronos
 
-## [The Stakeholder Company](https://tsc.ai), Full Stack Engineer
+### [The Stakeholder Company](https://tsc.ai), Full Stack Engineer
 Oct 2015 to Dec 2016
 * TSC Product: [Atium](https://vimeo.com/283410253)
 * Recruited and managed an engineering team
 * developed hiring practise to attract top talent
 * Improve News crawling engine using AWS Lambda (Crawler), Scrapy (Parser), Python Newspaper (News analyser), Elasticsearch (Database), and Django (Front-end)
 
-## [CV. Alto Karya Mandiri](#), Founder & CEO
+### [CV. Alto Karya Mandiri](#), Founder & CEO
 Mar 2013 to Mar 2015
 
-## [The Mobile Gamer](https://www.crunchbase.com/organization/the-mobile-gamer), Lead Engineer
+### [The Mobile Gamer](https://www.crunchbase.com/organization/the-mobile-gamer), Lead Engineer
 Mar 2011 to Jan 2013
 * Integrate mobile payment system with leading telecommunications companies in Indonesia such as Telkomsel and XL Axiata
 * Developed in-house analytics platform which tracks KPI metrics
 * Developed mobile games portal with CodeIgniter framework
 * Coordinated project management with engineering teams in Jakarta, Indonesia
 
-## [Orazion](#), Co-Founder & Product Director
+### [Orazion](#), Co-Founder & Product Director
 Sep 2007 to Sep 2009
 * Successfully implemented real estate management platform which managed sales and payment system
 * Developed school management system which handles tests, exams, grades, and reports
