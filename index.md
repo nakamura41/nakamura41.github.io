@@ -26,8 +26,6 @@ Aug 2003 to Aug 2008
 Jul 2018 to Mar 2019
 
 * Developed Emotion classification model using BERT architecture in PyTorch
-
-** EmoInt dataset: 85.49% mean accuracy
-** ISEAR dataset: 70.43% mean accuracy
-
+  * EmoInt dataset: 85.49% mean accuracy
+  * ISEAR dataset: 70.43% mean accuracy
 * Developed EEG signal classification model using Capsule network architecture in Keras (70.4% in mean F1-score)
