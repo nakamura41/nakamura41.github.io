@@ -24,10 +24,10 @@ Aug 2003 to Aug 2008
 
 ### [A*Star I2R](https://www.a-star.edu.sg/i2r), Research Intern
 Jul 2018 to Mar 2019
-* Developed Emotion classification model using BERT architecture in PyTorch
-  * EmoInt dataset: 85.49% mean accuracy
-  * ISEAR dataset: 70.43% mean accuracy
-* Developed EEG signal classification model using Capsule network architecture in Keras (70.4% in mean F1-score)
+* Developed Emotion classification model using [BERT](https://arxiv.org/abs/1810.04805) architecture in [PyTorch](https://pytorch.org/)
+  * [EmoInt](https://saifmohammad.com/WebPages/EmotionIntensity-SharedTask.html) dataset: 85.49% mean accuracy
+  * [ISEAR](https://github.com/sinmaniphel/py_isear_dataset) dataset: 70.43% mean accuracy
+* Developed EEG signal classification model using [Capsule network](https://arxiv.org/abs/1710.09829) architecture in Keras (70.4% in mean F1-score)
 
 ### [Razer](https://www.razerzone.com), Senior Big Data Engineer
 Jan 2017 to Oct 2017
@@ -37,7 +37,7 @@ Jan 2017 to Oct 2017
 
 ## [The Stakeholder Company](https://tsc.ai), Full Stack Engineer
 Oct 2015 to Dec 2016
-* TSC Product, [Atium](https://vimeo.com/283410253)
+* TSC Product: [Atium](https://vimeo.com/283410253)
 * Recruited and managed an engineering team
 * developed hiring practise to attract top talent
 * Improve News crawling engine using AWS Lambda (Crawler), Scrapy (Parser), Python Newspaper (News analyser), Elasticsearch (Database), and Django (Front-end)
