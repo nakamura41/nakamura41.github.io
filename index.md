@@ -27,7 +27,7 @@ Jul 2018 to Mar 2019
 * Developed Emotion classification model using [BERT](https://arxiv.org/abs/1810.04805) architecture in [PyTorch](https://pytorch.org/)
   * [EmoInt](https://saifmohammad.com/WebPages/EmotionIntensity-SharedTask.html) dataset: 85.49% mean accuracy
   * [ISEAR](https://github.com/sinmaniphel/py_isear_dataset) dataset: 70.43% mean accuracy
-* Developed EEG signal classification model using [Capsule network](https://arxiv.org/abs/1710.09829) architecture in Keras (70.4% in mean F1-score)
+* Developed EEG signal classification model using [Capsule networks](https://arxiv.org/abs/1710.09829) architecture in [Keras](https://keras.io/) (70.4% in mean F1-score)
 
 ### [Razer](https://www.razerzone.com), Senior Big Data Engineer
 Jan 2017 to Oct 2017
