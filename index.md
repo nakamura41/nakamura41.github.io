@@ -6,13 +6,14 @@ layout: default
 ## Education
 
 ### [NUS Institute of Systems Science](https://www.iss.nus.edu.sg/graduate-programmes/programme/detail/master-of-technology-in-knowledge-engineering)
-### MTech in Knowledge Engineering (Data Science & Business Analytics)
+**MTech in Knowledge Engineering (Data Science & Business Analytics)**
 Jan 2018 to Apr 2019
 
 * Lead the development of Intelligent Systems using contemporary tools and techniques, including Artificial Intelligence, Machine Learning, Prediction, Forecasting, Classification, Clustering and Optimisation
 * Applied Deep Learning method for Sentiment Analysis and Image classification
 
-### [Sekolah Tinggi Teknik Surabaya](http://stts.edu), Bachelor in Information Technology
+### [Sekolah Tinggi Teknik Surabaya](http://stts.edu)
+**Bachelor in Information Technology**
 Aug 2003 to Aug 2008
 
 * GPA 3.6/4.0
@@ -24,7 +25,8 @@ Aug 2003 to Aug 2008
 
 ## Experience
 
-### [A*Star I2R](https://www.a-star.edu.sg/i2r), Research Intern
+### [A*Star I2R](https://www.a-star.edu.sg/i2r)
+**Research Intern**
 Jul 2018 to Mar 2019
 * Developed Emotion classification model using [BERT](https://arxiv.org/abs/1810.04805) architecture in [PyTorch](https://pytorch.org/)
   * [EmoInt](https://saifmohammad.com/WebPages/EmotionIntensity-SharedTask.html) dataset: 85.49% mean accuracy
