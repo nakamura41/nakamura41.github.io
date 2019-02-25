@@ -33,18 +33,18 @@ Aug 2003 to Aug 2008
 #### Research Intern
 
 Jul 2018 to Mar 2019
-* Developed Emotion classification model using [BERT](https://arxiv.org/abs/1810.04805) architecture in [PyTorch](https://pytorch.org/)
+* Developed Emotion classification (Natural Language Processing) model using [BERT](https://arxiv.org/abs/1810.04805) architecture in [PyTorch](https://pytorch.org/)
   * [EmoInt](https://saifmohammad.com/WebPages/EmotionIntensity-SharedTask.html) dataset: 85.49% mean accuracy
   * [ISEAR](https://github.com/sinmaniphel/py_isear_dataset) dataset: 70.43% mean accuracy
-* Developed EEG signal classification model using [Capsule networks](https://arxiv.org/abs/1710.09829) architecture in [Keras](https://keras.io/) (70.4% in mean F1-score)
+* Developed EEG (Human Brain Signal) classification model using [Capsule networks](https://arxiv.org/abs/1710.09829) architecture in [Keras](https://keras.io/) (70.4% in mean F1-score)
 
 ### [Razer](https://www.razerzone.com)
 #### Senior Big Data Engineer
 
 Jan 2017 to Oct 2017
 * Managed a team of data scientists that are responsible for Razer’s software analytic platform
-* Data Lake: developed using AWS Athena, Glue
-* ETL Pipeline: developed using Apache Spark, Docker, Mesos, Chronos
+* Implement ETL job using Apache Spark, Python, Docker, Apache Mesos, Chronos.
+* Designed new centralized Data Warehouse platform using AWS Data Pipeline, Athena, Glue alongside with Google Cloud DataFlow and DataPrep
 
 ### [The Stakeholder Company](https://tsc.ai)
 #### Full Stack Engineer
@@ -52,7 +52,6 @@ Jan 2017 to Oct 2017
 Oct 2015 to Dec 2016
 * TSC Product: [Atium](https://vimeo.com/283410253)
 * Recruited and managed an engineering team
-* developed hiring practise to attract top talent
 * Improve News crawling engine using AWS Lambda (Crawler), Scrapy (Parser), Python Newspaper (News analyser), Elasticsearch (Database), and Django (Front-end)
 
 ### [CV. Alto Karya Mandiri](#)
@@ -72,6 +71,4 @@ Mar 2011 to Jan 2013
 
 Sep 2007 to Sep 2009
 * Successfully implemented real estate management platform which managed sales and payment system
-* Developed school management system which handles tests, exams, grades, and reports
-* Developed company profile sites 
 
