@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-# David Leonardi - Curriculum Vitae
+# Resume
 
 ## Education
 
